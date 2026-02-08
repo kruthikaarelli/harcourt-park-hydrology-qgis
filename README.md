@@ -5,8 +5,7 @@
  ### Contents
  
 	•	hp_data/ — Original Harcourt Park datasets (boundary, wetlands, tributaries)
-	•	refined_streams/ — DEM-derived and validated tributary network
-	•	hp_streams_refined.gpkg — Final refined tributary network
+	•	refined_streams/ — DEM-derived and validated tributary network. 
 
 
  ### Project Summary
